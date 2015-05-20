@@ -3,6 +3,8 @@
 	email = bin.shao0604@gmail.com
 [color]
 	ui = auto
+[core]
+	editor = vim
 [alias]
 	co = checkout
 	ci = commit
